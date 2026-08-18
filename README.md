@@ -4,4 +4,4 @@
 * git commit
 * git push
 * git clone
-* git pull & fetchg
+* git pull & fetch
